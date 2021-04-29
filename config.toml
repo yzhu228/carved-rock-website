@@ -12,7 +12,7 @@ enableRobotsTXT = true
 
 [languages]
   [languages.en]
-    title = "Blog"
+    title = "Carved Rock Fitness"
     weight = 1
     contentDir = "content/en"
 
