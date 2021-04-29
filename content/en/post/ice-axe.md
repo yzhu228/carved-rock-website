@@ -2,7 +2,6 @@
 date: 2021-04-09T10:58:08-04:00
 description: "Ice Axe Sale"
 featured_image: "/images/shutterstock_236845636.jpg"
-tags: ["scene"]
 title: "Ice Axe Sale!"
 ---
 

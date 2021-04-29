@@ -2,7 +2,6 @@
 date: 2021-04-10T11:00:59-04:00
 description: "Carabiners Back in Stock"
 featured_image: "/images/shutterstock_362174360.jpg"
-tags: []
 title: "Carabiners Back in Stock"
 ---
 
