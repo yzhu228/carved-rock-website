@@ -5,4 +5,4 @@ featured_image: "/images/shutterstock_362174360.jpg"
 title: "Carabiners For Sale (in Stock)"
 ---
 
-Carabiners for sale!!!!
+Carabiners for sale!
